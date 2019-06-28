@@ -7,4 +7,6 @@ My MicroPython projects for ESP8266 and ESP32 -- Usually adapting 3rd party H/W 
        2.) Developend severa example programs for ESP8266 and ESP32 to demonstrate how drivers should be used.
        3.) Modified my driver mentioned in iten 1 (above) to support 1 or 2 LCD devices be they 16x2 or 20x4.
    
+   Heck if I know how to use GitHub!
+    
 </code>
