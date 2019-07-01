@@ -1,5 +1,5 @@
-ESP8266-ESP32-MicroPython
-My MicroPython projects for ESP8266 and ESP32 
+ESP8266-ESP32-MicroPython<br>
+My MicroPython projects for ESP8266 and ESP32<br>
 (usually adapting 3rd party H/W & drivers to work on these two MCUs.
 
 Projects:<br>
